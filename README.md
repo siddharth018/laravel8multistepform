@@ -4,9 +4,9 @@
 ## About
 <h2>Step 1: download in your system.</h2>  
 
-git clone https://github.com/siddharth018/LaravelMultiStep.git
+git clone https://github.com/siddharth018/laravel8multistepform.git
 
-    cd LaravelMultiStep
+    cd laravel8multistepform
 
 <h2>Step 2: Configure your database from .env file</h2> 
 
